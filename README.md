@@ -1,8 +1,9 @@
-# Getting Started with Create React App
+# DTMoney
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Está aplicação ser para um controle de finanças.
+Dentro o entra de recursos e saídas.
 
-## Available Scripts
+## Instalar dependências
 
 In the project directory, you can run:
 
